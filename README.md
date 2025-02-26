@@ -1,4 +1,5 @@
-  #🖼️🔒Secure Data Hiding using Steganography
+  #  🖼️🔒Secure Data Hiding using Steganography
+  
 Image steganography is the technique of hiding a secret message within an image in such a way that the original image remains unaltered to the human eye.
 
   ## 🔍Overview
