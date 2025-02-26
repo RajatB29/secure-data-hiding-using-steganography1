@@ -61,6 +61,7 @@ Clone the repository:
 ## Screenshot
 
 
+![image](https://github.com/user-attachments/assets/8b0261e1-88b8-40c0-b2b6-dd7a95baf7e5)
 
 
 ## 📜 License
